@@ -1,7 +1,6 @@
 ultralytics
-shutil
 roboflow
-opencv
+opencv-python
 torch
 torchvision
 numpy
@@ -10,4 +9,3 @@ google.generativeai
 pandas
 argparse
 pathlib
-pickle
